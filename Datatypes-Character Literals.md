@@ -20,7 +20,8 @@ print(b)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/9a0d1a1a-5dc5-46eb-8171-8d3a4834befd)
+![438092306-46c885d6-3cb6-4006-b3be-08d97d86236d](https://github.com/user-attachments/assets/6d9286e3-a97e-40dc-9470-a47a56f5c3d8)
+
 
 
 ## Result
