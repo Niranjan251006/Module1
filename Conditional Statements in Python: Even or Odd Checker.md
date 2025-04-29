@@ -24,8 +24,8 @@ else:
     print("Odd number")
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/20445433-f3ef-4677-9cc8-ac80a2a1efbe)
 
+![438046823-e5040a25-ef1a-45d9-9084-08589fabb85d](https://github.com/user-attachments/assets/e8a3ca6e-47d3-4ba0-9745-316912e3f70b)
 
 ## Result
 Thus the output is successfully obtained.
